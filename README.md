@@ -46,6 +46,7 @@ You start with **1 health point**. If you're attacked without proper preparation
 
 Make sure you have **Python 3.6+** installed.
 
+Go to clone repo folder and find folder with TextBasedGame.py, right click and click "open in terminal" 
 ```bash
 python3 TextBasedGame.py
 
